@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm [Michael Mbethe]
 
-<!--
-**mbetheMike/mbetheMike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- AI Student @ We Can College | Determined & Hardworking | Passionate about building the future with Artificial Intelligence | Dreaming big, achieving bigger
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Machine Learning: Understanding algorithms like regression, classification, clustering, and reinforcement learning.
+- Deep Learning: Building and training neural networks with frameworks like TensorFlow and PyTorch.
+- Problem-Solving: Breaking down complex challenges into manageable steps.
+- Critical Thinking: Evaluating model performance and ethical implications.
+- Collaboration: Working on group projects, open-source contributions, and GitHub workflows.
 
-- 🔭 I’m currently building skills on git and github
-- 🌱 I’m currently learning Artificial Intelligence
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 mbethemike64@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [Project name](link) — short description
+
+## How to Reach Me
+- Email: [mbethemike64@gmail.com]
+- LinkedIn: (https://mbethemike.github.io/)
