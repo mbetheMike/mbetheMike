@@ -15,4 +15,3 @@
 
 ## How to Reach Me
 - Email: [mbethemike64@gmail.com]
-- LinkedIn: (https://mbethemike.github.io/)
