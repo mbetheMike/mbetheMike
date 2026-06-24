@@ -11,7 +11,7 @@
 - [ ] master git basics
 - [ ] explore github copilot
 ```python
-print("Hello, world!")
+print("Hello, sir!")
 ```
 ## **About me**
 - my name is Michael Mbethe learning AI,Git and Markdown. i use vscode for coding and store my projects on Github.
