@@ -13,4 +13,7 @@
 ```python
 print("Hello, world!")
 ```
+## **About me**
+- my name is Michael Mbethe learning AI,Git and Markdown. i use vscode for coding and store my projects on Github.
+### **my favorite quote**
 > There is no hard bread in front of tea.
