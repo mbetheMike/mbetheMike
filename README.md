@@ -11,7 +11,7 @@
 - Collaboration: Working on group projects, open-source contributions, and GitHub workflows.
 
 ## Current Projects
-- [Project name](link) — short description
+- introduction to github
 
 ## How to Reach Me
 - Email: [mbethemike64@gmail.com]
